@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ensembleMOS"]
 	path = ensembleMOS
 	url = https://github.com/cran/ensembleMOS
-	shallow = true
-	registered = true
